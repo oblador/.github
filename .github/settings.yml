@@ -1,0 +1,9 @@
+repository:
+  # See https://docs.github.com/en/rest/repos/repos#update-a-repository for all available settings.
+  has_issues: true
+  has_wiki: false
+  has_pages: false
+  allow_squash_merge: true
+  allow_merge_commit: false
+  allow_rebase_merge: false
+  delete_branch_on_merge: true
